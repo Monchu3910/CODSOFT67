@@ -1,2 +1,2 @@
 # CODSOFT
-it is aweb development internship
+it is a web development internship
